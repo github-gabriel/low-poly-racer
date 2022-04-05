@@ -1,1 +1,1 @@
-# low_poly_racer
+# Low Poly Racer
